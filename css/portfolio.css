@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /*font-family: 'Quicksand', sans-serif;*/
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+:root {
+    /*Colors*/
+    --Brand: #0A3161;
+    --Secondary: #B1F147;
+    --Brand_LS: #EDF5FF;
+    --text-color1: #1e1e1e;
+    --text-color2: #303030;
+    --text-color3: #434343;
+    --white: #ffffff;
+    --bg-color: #f5f5f5;
+    --gr1: #F2F2F2;
+    --gr1: #F2F2F2;
+    --gr2: #E6E6E6;
+    --gr3: #D4D4D4;
+    --gr4: #989898;
+    --Link: #0075FF;
+    --Success: #53A653;
+    --Danger: #FF0000;
+    --Warning: #FF5F15;
+
+
+
+
+    /*Old Colors*/
+    --brand-color: #26AE47;
+    --brand-color-hover: #1e8938;
+    --bg-color2:rgb(205, 205, 205)5;
+    --grey1: #ececec;
+    --grey2: #b0b0b0;
+    /*--gradient: linear-gradient(45deg, #ACFF73, #91FFA9, #79FFDB);*/
+    /*--store: linear-gradient(#242629, #313538, #ACFF73, #91FFA9, #79FFDB, #ffffff);*/
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color1);
+}
+
+.pworks .serv_Heading h1{
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: var(--Brand);
+  }
