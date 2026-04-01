@@ -1453,6 +1453,10 @@ figure.snip1174.hover a {
     padding: 5%;
   }
 
+  .navbar .menu-items {
+  justify-content: center;
+}
+
   .footer .row2 ul li {
     display: block;
     margin: 10px 0px;
@@ -1701,6 +1705,10 @@ figure.snip1174.hover a {
     padding: 40px 40px;
   }
 
+  .navbar .menu-items {
+  justify-content: center;
+}
+
   .herotxt .name {
     font-size: 18px;
     padding-top: 24px;
@@ -1729,6 +1737,10 @@ figure.snip1174.hover a {
     padding: 20px 0px;
   }
 
+  .navbar .menu-items {
+  justify-content: center;
+}
+
   .herotxt .name {
     font-size: 20px;
     padding-top: 24px;
@@ -1756,6 +1768,10 @@ figure.snip1174.hover a {
     border-right: 3px solid var(--white);
     border-bottom: 3px solid var(--gr3);
   }
+
+  .navbar .menu-items {
+  justify-content: center;
+}
 
   #client_logo2 {
     border-right: 3px solid var(--white);
