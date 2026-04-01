@@ -1453,6 +1453,10 @@ figure.snip1174.hover a {
     padding: 5%;
   }
 
+  #ser_id img {
+    display: block;
+  }
+
   .navbar .menu-items {
   justify-content: center;
 }
@@ -1474,6 +1478,10 @@ figure.snip1174.hover a {
   .secondtxt {
     font-size: 76px;
     font-weight: 400;
+  }
+
+  #ser_id img {
+    display: block;
   }
 
   .navbar .menu-items {
@@ -1705,6 +1713,10 @@ figure.snip1174.hover a {
     padding: 40px 40px;
   }
 
+  #ser_id img {
+    display: block;
+  }
+
   .navbar .menu-items {
   justify-content: center;
 }
@@ -1737,6 +1749,10 @@ figure.snip1174.hover a {
     padding: 20px 0px;
   }
 
+  #ser_id img {
+    display: block;
+  }
+
   .navbar .menu-items {
   justify-content: center;
 }
@@ -1767,6 +1783,10 @@ figure.snip1174.hover a {
   #client_logo1 {
     border-right: 3px solid var(--white);
     border-bottom: 3px solid var(--gr3);
+  }
+
+  #ser_id img {
+    display: block;
   }
 
   .navbar .menu-items {
