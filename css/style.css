@@ -1159,16 +1159,6 @@ figure.snip1174.hover a {
   color: var(--text-color1);
 }
 
-.faq p {
-  color: var(--text-color2);
-  font-size: 18px;
-  font-weight: 400;
-  padding: 0px 24px;
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-
 .resource {
   background-color: var(--Brand_LS);
   display: flex;
