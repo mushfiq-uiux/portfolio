@@ -1453,6 +1453,28 @@ figure.snip1174.hover a {
     padding: 5%;
   }
 
+  figure.snip1174 {
+  figcaption {
+    color: var(--Brand_LS);
+  }
+
+  figcaption h2{
+    font-weight: bolder;
+    text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.7);
+  }
+
+  figcaption p {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 20px;
+    color: var(--Brand);
+    background-color: rgba(177, 241, 71, 0.7);
+  }
+}
+
   #ser_id img {
     display: block;
   }
@@ -1479,6 +1501,28 @@ figure.snip1174.hover a {
     font-size: 76px;
     font-weight: 400;
   }
+
+  figure.snip1174 {
+  figcaption {
+    color: var(--Brand_LS);
+  }
+
+  figcaption h2{
+    font-weight: bolder;
+    text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.7);
+  }
+
+  figcaption p {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 20px;
+    color: var(--Brand);
+    background-color: rgba(177, 241, 71, 0.7);
+  }
+}
 
   #ser_id img {
     display: block;
@@ -1713,6 +1757,28 @@ figure.snip1174.hover a {
     padding: 40px 40px;
   }
 
+  figure.snip1174 {
+  figcaption {
+    color: var(--Brand_LS);
+  }
+
+  figcaption h2{
+    font-weight: bolder;
+    text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.7);
+  }
+
+  figcaption p {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 20px;
+    color: var(--Brand);
+    background-color: rgba(177, 241, 71, 0.7);
+  }
+}
+
   #ser_id img {
     display: block;
   }
@@ -1749,6 +1815,28 @@ figure.snip1174.hover a {
     padding: 20px 0px;
   }
 
+  figure.snip1174 {
+  figcaption {
+    color: var(--Brand_LS);
+  }
+
+  figcaption h2{
+    font-weight: bolder;
+    text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.7);
+  }
+
+  figcaption p {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 20px;
+    color: var(--Brand);
+    background-color: rgba(177, 241, 71, 0.7);
+  }
+}
+
   #ser_id img {
     display: block;
   }
@@ -1784,6 +1872,28 @@ figure.snip1174.hover a {
     border-right: 3px solid var(--white);
     border-bottom: 3px solid var(--gr3);
   }
+
+  figure.snip1174 {
+  figcaption {
+    color: var(--Brand_LS);
+  }
+
+  figcaption h2{
+    font-weight: bolder;
+    text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.7);
+  }
+
+  figcaption p {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 20px;
+    color: var(--Brand);
+    background-color: rgba(177, 241, 71, 0.7);
+  }
+}
 
   #ser_id img {
     display: block;
