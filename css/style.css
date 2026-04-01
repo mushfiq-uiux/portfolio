@@ -772,6 +772,9 @@ figure.snip1174 h2 {
   display: inline-block;
   font-weight: 400;
   font-size: 1.8em;
+  color: var(--Brand_LS);
+  font-weight: bolder;
+  text-shadow: 2px 4px 6px rgba(0, 0, 0, 0.4);
 }
 
 figure.snip1174 p {
