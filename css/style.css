@@ -277,9 +277,10 @@ body {
 
 .hashtags {
   color: var(--gr3);
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
   padding-bottom: 40px;
+  padding-top: 8px;
 }
 
 .NHeroSection {
