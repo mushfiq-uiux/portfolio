@@ -255,6 +255,14 @@ body {
   color: var(--bg-color);
   font-size: 200px;
   font-weight: 300;
+  margin: 0px 24px;
+}
+
+.herosectxt h2 {
+  font-size: 70px;
+  margin: 24px 24px;
+  color: rgba(245, 245, 245, 0.6);
+  font-weight: 300;
 }
 
 .rightpart {
@@ -1455,6 +1463,10 @@ figure.snip1174.hover a {
     padding: 5%;
   }
 
+  .herosectxt h2 {
+    font-size: 32px;
+  }
+
   figure.snip1174 {
   figcaption {
     color: var(--Brand_LS);
@@ -1502,6 +1514,10 @@ figure.snip1174.hover a {
   .secondtxt {
     font-size: 76px;
     font-weight: 400;
+  }
+
+  .herosectxt h2 {
+    font-size: 32px;
   }
 
   figure.snip1174 {
@@ -1759,6 +1775,10 @@ figure.snip1174.hover a {
     padding: 40px 40px;
   }
 
+  .herosectxt h2 {
+    font-size: 32px;
+  }
+
   figure.snip1174 {
   figcaption {
     color: var(--Brand_LS);
@@ -1817,6 +1837,10 @@ figure.snip1174.hover a {
     padding: 20px 0px;
   }
 
+  .herosectxt h2 {
+    font-size: 32px;
+  }
+
   figure.snip1174 {
   figcaption {
     color: var(--Brand_LS);
@@ -1873,6 +1897,10 @@ figure.snip1174.hover a {
   #client_logo1 {
     border-right: 3px solid var(--white);
     border-bottom: 3px solid var(--gr3);
+  }
+
+  .herosectxt h2 {
+    font-size: 32px;
   }
 
   figure.snip1174 {
